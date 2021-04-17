@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Land">
+      <UniqueIdentifier>{4472baeb-5ac7-4390-a95d-f63943cd64de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Bird">
+      <UniqueIdentifier>{940d86f9-9436-4dc5-ade6-e8dcfe17723c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Bushes">
+      <UniqueIdentifier>{b8305142-9b8c-4888-9572-d1d651215018}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Girl">
+      <UniqueIdentifier>{a541c7b6-b870-40ca-b491-bd2d15913e58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="House">
+      <UniqueIdentifier>{eb44871b-3afc-4835-903a-8c5671113ebf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Santa">
+      <UniqueIdentifier>{26e1d62b-1121-4144-875c-a436e76a9181}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sky">
+      <UniqueIdentifier>{105c67f7-e6db-47e3-84c5-528b2013a284}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tree">
+      <UniqueIdentifier>{a75f1354-b31f-40a9-a824-04d8b38408b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gift">
+      <UniqueIdentifier>{e3562897-db4f-4a97-b45a-17694286f1a0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="01_Land\Grass.bmp">
+      <Filter>Land</Filter>
+    </Image>
+    <Image Include="01_Sky\Star.bmp">
+      <Filter>Sky</Filter>
+    </Image>
+    <Image Include="01_Tree\Leaf.bmp">
+      <Filter>Tree</Filter>
+    </Image>
+    <Image Include="01_Tree\Bark_3.bmp">
+      <Filter>Tree</Filter>
+    </Image>
+    <Image Include="02_Bushes\green_3.bmp">
+      <Filter>Bushes</Filter>
+    </Image>
+    <Image Include="02_Bushes\green_1.bmp">
+      <Filter>Bushes</Filter>
+    </Image>
+    <Image Include="02_Bushes\green_2.bmp">
+      <Filter>Bushes</Filter>
+    </Image>
+    <Image Include="02_House\Boarder.bmp">
+      <Filter>House</Filter>
+    </Image>
+    <Image Include="02_House\Door_01.bmp">
+      <Filter>House</Filter>
+    </Image>
+    <Image Include="02_House\glass_01.bmp">
+      <Filter>House</Filter>
+    </Image>
+    <Image Include="02_House\glass_02.bmp">
+      <Filter>House</Filter>
+    </Image>
+    <Image Include="02_House\Steel_01.bmp">
+      <Filter>House</Filter>
+    </Image>
+    <Image Include="02_House\snow.bmp">
+      <Filter>House</Filter>
+    </Image>
+    <Image Include="02_House\wooden_wall.bmp">
+      <Filter>House</Filter>
+    </Image>
+    <Image Include="02_House_Tree\Bark_3.bmp">
+      <Filter>House</Filter>
+    </Image>
+    <Image Include="03_Girl\foot_1.bmp">
+      <Filter>Girl</Filter>
+    </Image>
+    <Image Include="03_Girl\Girl_face.bmp">
+      <Filter>Girl</Filter>
+    </Image>
+    <Image Include="03_Girl\Nose_0.bmp">
+      <Filter>Girl</Filter>
+    </Image>
+    <Image Include="03_Girl\Red_2.bmp">
+      <Filter>Girl</Filter>
+    </Image>
+    <Image Include="03_Girl\Shoose.bmp">
+      <Filter>Girl</Filter>
+    </Image>
+    <Image Include="04_Santa\Santa_02.bmp">
+      <Filter>Santa</Filter>
+    </Image>
+    <Image Include="04_Santa\Santa_face.bmp">
+      <Filter>Santa</Filter>
+    </Image>
+    <Image Include="04_Santa\Santa_Foot_Wear.bmp">
+      <Filter>Santa</Filter>
+    </Image>
+    <Image Include="05_Bird\Bill.bmp">
+      <Filter>Bird</Filter>
+    </Image>
+    <Image Include="05_Bird\Bird_01.bmp">
+      <Filter>Bird</Filter>
+    </Image>
+    <Image Include="05_Bird\Nest.bmp">
+      <Filter>Bird</Filter>
+    </Image>
+    <Image Include="06_Gift\santa_Gift_1.bmp">
+      <Filter>Gift</Filter>
+    </Image>
+    <Image Include="06_Gift\santa_Gift_3.bmp">
+      <Filter>Gift</Filter>
+    </Image>
+    <Image Include="06_Gift\santa_Gift_2.bmp">
+      <Filter>Gift</Filter>
+    </Image>
+    <Image Include="02_House\Black_Window.bmp">
+      <Filter>House</Filter>
+    </Image>
+    <Image Include="universe.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Nightsound_1.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Santa_Entry_Track.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Falling_Down.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
