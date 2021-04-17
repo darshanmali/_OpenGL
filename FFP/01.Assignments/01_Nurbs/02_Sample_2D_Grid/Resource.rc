@@ -1,0 +1,8 @@
+#include<Header.h>
+
+MYICON ICON DM.ico
+
+MYTEXTURE BITMAP Bill.bmp
+
+
+
